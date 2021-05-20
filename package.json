@@ -1,0 +1,36 @@
+{
+  "name": "pharma-retail-core-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://akmelias@bitbucket.org/knroy/pharma-retail-core-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/knroy/pharma-retail-core-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "fakerator": "^0.3.0",
+    "generate-password": "^1.4.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.12.10",
+    "mongoose-paginate": "^5.0.3",
+    "multer": "^1.4.1",
+    "node-phonenumber": "^1.0.0",
+    "nodemon": "^1.18.10",
+    "secret-key": "^1.4.2",
+    "underscore": "^1.9.1",
+    "username-generator": "^1.1.0",
+    "uuid4": "^1.1.4"
+  }
+}
